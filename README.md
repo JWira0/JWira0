@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello there! My name is Jaiden Wirasinghe👋
+- I am a high school student at Homestead High School currently in my freshmen year. I am interested in both business and coding. 
+- 🔭 I’m currently working on building a mental health mobile app for a college.
+- 🌱 I’m currently learning Javascript and hope to learn HTML later on!
+- 📫 How to reach me: You can also find me on LinkedIn!
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love to swim and am in a competitive swim team!
 
 <!--
 **JWira0/JWira0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
