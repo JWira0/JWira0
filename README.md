@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Javascript and hope to learn HTML later on!
 - 📫 How to reach me: You can also find me on LinkedIn!
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love to swim and am on the Homestead High School swim team!
 
 <!--
 **JWira0/JWira0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
